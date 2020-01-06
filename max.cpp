@@ -34,4 +34,3 @@ int main(){
     }
 }
 
-//Copyright Georgi Petrov
